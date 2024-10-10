@@ -71,7 +71,7 @@ El proyecto tiene la siguiente estructura de archivos:
 ├── README.md              # Documentación del proyecto
 ```
 
-- gestion_inventario.py: Contiene el código principal que implementa la lógica para ordenar productos por precio y calcular el stock basado en los movimientos.
+- funcion.py: Contiene el código principal que implementa la lógica para ordenar productos por precio y calcular el stock basado en los movimientos.
 - README.md: Este archivo, que documenta cómo instalar, usar y entender el proyecto.
 
 ## Tecnologías y herramientas utilizadas
