@@ -28,7 +28,7 @@ Sigue los siguientes pasos para ejecutar el proyecto en tu máquina local.
 Primero, clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/gestion-inventario-python.git
+git clone https://github.com/tu-usuario/Tarea3_PT_UNAS.git
 ```
 
 ### Paso 2: Ejecutar el código
@@ -38,7 +38,7 @@ Asegúrate de tener Python 3.x instalado en tu sistema. Si no lo tienes, descár
 Luego, desde la carpeta del proyecto, ejecuta el script en la terminal:
 
 ```bash
-python gestion_inventario.py
+python funcion.py
 ```
 
 ### Paso 3: Resultado esperado
@@ -67,7 +67,7 @@ Stock actualizado:
 El proyecto tiene la siguiente estructura de archivos:
 
 ```bash
-├── gestion_inventario.py  # Archivo principal con las funciones de gestión de productos e inventario
+├── funcion.py  # Archivo principal con las funciones de gestión de productos e inventario
 ├── README.md              # Documentación del proyecto
 ```
 
